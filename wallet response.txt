@@ -1,0 +1,2 @@
+{"guid":"7d992f49-c42e-4459-9157-0eb9e4f1b283",
+"address":"1C84CLvWVJk1BU39hppYm4ZX2rt6GVcypM","warning":"Created non-HD wallet, for privacy and security, it is recommended that new wallets are created with hd=true"}
